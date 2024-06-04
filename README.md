@@ -18,7 +18,7 @@
 현재 웹서비스 정지중입니다.
 [다이어리 프로젝트](https://diary-fe.azurewebsites.net)
 
-서비스 당시 동영상
+서비스 당시 영상
 [클릭](https://drive.google.com/file/d/1UgiqYWPIWF7Da2dpVs7xrpYpq7R7ZUiB/view?usp=drivesdk)
 
 ---
